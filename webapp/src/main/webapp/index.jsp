@@ -4,4 +4,4 @@
 <h1 style="border:2px solid Violet;">Hello World</h1>
 
 <h2>HELLO MAYURIKA.S HOW ARE YOU....? GOOD MORNING</h2>
-<img src="mayurika.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="mayurika.jpg" alt="Girl in a jacket" width="300" height="300">
